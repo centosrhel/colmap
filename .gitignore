@@ -11,6 +11,7 @@ install-debug/
 install-release/
 data/
 doc/_build
+*.kdev4
 
 # Compiled Object files
 *.slo
