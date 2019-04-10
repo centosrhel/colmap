@@ -11,6 +11,8 @@ install-debug/
 install-release/
 data/
 doc/_build
+Release
+Debug
 
 # Compiled Object files
 *.slo
